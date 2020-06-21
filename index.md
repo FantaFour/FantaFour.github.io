@@ -3,3 +3,11 @@
 da man die im Markdown genutzten Symbole nicht ohne weiteres nutzen kann und auch Ligaturen fuer Umlaute etc zu nutzen sind, ueberzeugt mich der Einsatz dieser "Sprache" nicht.
 
 Weiterer normaler Text wie gefordert ohne Auszeichnungen etc..
+
+## dies ist der geforderte Subheader
+
+* dies ist die
+* ungeordnete Liste
+* mit den drei
+* bis zehn
+* Stichpunkten
