@@ -11,3 +11,8 @@ Weiterer normaler Text wie gefordert ohne Auszeichnungen etc..
 * mit den drei
 * bis zehn
 * Stichpunkten
+
+Mein Zitat:
+
+> Gib mir eine Kommandozeile mit root Rechten
+> und alles wird gut!
